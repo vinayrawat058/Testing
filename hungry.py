@@ -10,3 +10,6 @@ else:
 
 
 print("Thirsty branch")
+print("Just keep going") 
+
+print("Just keep going as i said")
